@@ -5,7 +5,7 @@ import requests
 import json
 import os
 
-host = "http://rocketchat:3000"
+host = "https://chat.edendepot.com"
 path = "/api/v1/login"
 
 bot_name = 'ROCKETCHAT_USER'
